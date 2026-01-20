@@ -10,7 +10,7 @@ Learn Bash shell scripting basics by writing scripts for:
 - output redirection
 
 ## 🛠 Tools Used
-- Git Bash / Bash Shell
+- Git Bash 
 
 ## 📌 Scripts Included
 1. system_info.sh  → Prints system info
@@ -20,7 +20,7 @@ Learn Bash shell scripting basics by writing scripts for:
 5. cleanup_logs.sh → Deletes .log files from logs folder
 
 ## 📷 Screenshots
-Execution screenshots are added inside the `screenshots/` folder.
+Execution screenshots 
 
 ## ✅ Output
 Created backups and cleaned logs successfully.
